@@ -43,6 +43,10 @@ namespace restaurant_backend
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseCors(x => x
+                .AllowAnyOrigin()
+                .AllowAnyHeader()
+                .AllowAnyMethod());
 
             app.UseHttpsRedirection();
 

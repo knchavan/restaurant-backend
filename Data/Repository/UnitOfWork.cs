@@ -13,9 +13,12 @@ namespace restaurant_backend.Data.Repository
         {
             _db = db;
             User = new UserRepository(_db);
+            Restaurant = new RestaurantRepository(_db);
         }
 
         public IUserRepository User { get; private set; }
+
+        public IRestaurantRepository Restaurant { get; private set; }
 
         public void Save()
         {

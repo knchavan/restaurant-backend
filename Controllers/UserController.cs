@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using restaurant_backend.Data.Repository.IRepository;
 using restaurant_backend.Models;
+using restaurant_backend.Models.ViewModels;
 
 namespace restaurant_backend.Controllers
 {
@@ -28,17 +29,24 @@ namespace restaurant_backend.Controllers
         {
             _unitOfWork.User.Add(user);
             _unitOfWork.Save();
-            return NoContent();
-        }
-
-        [HttpPost("login")]
-        public ActionResult Login(string email, string password)
-        {
-            var user = _unitOfWork.User.GetFirstOrDefault(u => u.Email == email && u.Password == password);
             return Ok(new {
+                id = user.Id,
                 name = user.Name,
                 email = user.Email
             });
         }
+
+        [HttpPost("login")]
+        public ActionResult Login(LoginUserVM loginUserVM)
+        {
+            var userFromDb = _unitOfWork.User.GetFirstOrDefault(u => u.Email == loginUserVM.Email && u.Password == loginUserVM.Password);
+            if (userFromDb == null) return NotFound();
+            return Ok(new {
+                id = userFromDb.Id,
+                name = userFromDb.Name,
+                email = userFromDb.Email
+            });
+        }
+
     }
 }

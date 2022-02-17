@@ -5,7 +5,8 @@ namespace restaurant_backend.Data.Repository.IRepository
 {
     public interface IUnitOfWork
     {
-        IUserRepository User { get;}
+        IUserRepository User { get; }
+        IRestaurantRepository Restaurant { get; }
         void Save();
     }
 }

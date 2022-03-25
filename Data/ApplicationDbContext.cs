@@ -11,5 +11,6 @@ namespace restaurant_backend.Data
         }
         public DbSet<User> Users { get; set; }
         public DbSet<Restaurant> Restaurants { get; set; }
+        public DbSet<Item> Items { get; set; }
     }
 }

@@ -2,7 +2,7 @@
 
 namespace restaurant_backend.Migrations
 {
-    public partial class addRestaurantToDb : Migration
+    public partial class innitialMigrations : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

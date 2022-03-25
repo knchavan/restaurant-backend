@@ -14,11 +14,13 @@ namespace restaurant_backend.Data.Repository
             _db = db;
             User = new UserRepository(_db);
             Restaurant = new RestaurantRepository(_db);
+            Item = new ItemRepository(_db);
         }
 
         public IUserRepository User { get; private set; }
 
         public IRestaurantRepository Restaurant { get; private set; }
+        public IItemRepository Item { get; set; }
 
         public void Save()
         {

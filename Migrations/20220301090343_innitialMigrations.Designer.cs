@@ -9,8 +9,8 @@ using restaurant_backend.Data;
 namespace restaurant_backend.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220217092719_addRestaurantToDb")]
-    partial class addRestaurantToDb
+    [Migration("20220301090343_innitialMigrations")]
+    partial class innitialMigrations
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

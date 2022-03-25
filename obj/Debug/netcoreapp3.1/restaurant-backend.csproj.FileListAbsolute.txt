@@ -39,3 +39,85 @@ D:\ASP.NET Core 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib
 D:\ASP.NET Core 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\ASP.NET Core 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\ASP.NET Core 3.1\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.csproj.CopyComplete
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\appsettings.json
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.StaticWebAssets.xml
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.exe
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.deps.json
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.runtimeconfig.json
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.runtimeconfig.dev.json
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.pdb
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.csproj.AssemblyReference.cache
+F:\CeX Webuy\Vue Js 2\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\CeX Webuy\Vue Js 2\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.AssemblyInfoInputs.cache
+F:\CeX Webuy\Vue Js 2\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.AssemblyInfo.cs
+F:\CeX Webuy\Vue Js 2\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.csproj.CoreCompileInputs.cache
+F:\CeX Webuy\Vue Js 2\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.MvcApplicationPartsAssemblyInfo.cache
+F:\CeX Webuy\Vue Js 2\restaurant-backend\obj\Debug\netcoreapp3.1\staticwebassets\restaurant-backend.StaticWebAssets.Manifest.cache
+F:\CeX Webuy\Vue Js 2\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.RazorTargetAssemblyInfo.cache
+F:\CeX Webuy\Vue Js 2\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.csproj.CopyComplete
+F:\CeX Webuy\Vue Js 2\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.dll
+F:\CeX Webuy\Vue Js 2\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.pdb
+F:\CeX Webuy\Vue Js 2\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.genruntimeconfig.cache
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\appsettings.json
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.StaticWebAssets.xml
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.exe
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.deps.json
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.runtimeconfig.json
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.runtimeconfig.dev.json
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\restaurant-backend.pdb
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.csproj.AssemblyReference.cache
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.AssemblyInfoInputs.cache
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.AssemblyInfo.cs
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.csproj.CoreCompileInputs.cache
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.MvcApplicationPartsAssemblyInfo.cache
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\obj\Debug\netcoreapp3.1\staticwebassets\restaurant-backend.StaticWebAssets.Manifest.cache
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.RazorTargetAssemblyInfo.cache
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.csproj.CopyComplete
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.dll
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.pdb
+F:\CeX Webuy\ASP.NET 3.1\restaurant-backend\obj\Debug\netcoreapp3.1\restaurant-backend.genruntimeconfig.cache

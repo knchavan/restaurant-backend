@@ -7,6 +7,7 @@ namespace restaurant_backend.Data.Repository.IRepository
     {
         IUserRepository User { get; }
         IRestaurantRepository Restaurant { get; }
+        IItemRepository Item { get; }
         void Save();
     }
 }
